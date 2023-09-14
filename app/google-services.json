@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "570513057808",
+    "firebase_url": "https://assignment-a9b08-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "assignment-a9b08",
+    "storage_bucket": "assignment-a9b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570513057808:android:7a67d5e9952666bb6ec295",
+        "android_client_info": {
+          "package_name": "com.shanks.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOz3ues7sBk7v5oIDF15tuiel5vYdNcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
